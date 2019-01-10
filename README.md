@@ -1,6 +1,6 @@
 # WSDM Cup 2019 Sequential Skip Prediction Challenge - 5th Place Solution
 This repository contains the source code for our approach to the 2019 WSDM Cup Sequential Skip Prediction Challenge.
-We achieved the 5th position under the 'Adrem Data Lab' team.
+We achieved the 5th position under the 'Adrem Data Lab' team. More information on the competition, as well as the dataset, can be found [here](https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge).
 
 Our solution comprises a modular, scalable and data-efficient pipeline, a minimum of feature engineering and a single recurrent neural network architecture trained with a custom weighted loss function.
 
