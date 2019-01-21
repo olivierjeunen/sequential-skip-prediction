@@ -3,6 +3,7 @@ This repository contains the source code for our approach to the 2019 WSDM Cup S
 We achieved the 5th position under the 'Adrem Data Lab' team. More information on the competition, as well as the dataset, can be found [here](https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge).
 
 Our solution comprises a modular, scalable and data-efficient pipeline, a minimum of feature engineering and a single recurrent neural network architecture trained with a custom weighted loss function.
+A detailed motivation and description of our approach can be found in the [accompanying paper](http://adrem.uantwerpen.be//bibrem/pubs/WSDMCupJeunen2019.pdf).
 
 The current script expects a GPU installation of Tensorflow, with Keras on top.
 Furthermore, model training is parallellised over 2 GPUs.
